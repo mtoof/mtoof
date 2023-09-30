@@ -5,13 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **C**
-
 - 📫 How to reach me **mojtaba.toof@gmail.com**
-
-
-<h3 align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoof&&theme=dark)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
