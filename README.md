@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **mojtaba.toof@gmail.com**
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoof&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoof&layout=compact&theme=dark)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoof&theme=dark&show_icons=true)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoof&&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
