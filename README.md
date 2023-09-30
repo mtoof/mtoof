@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **mojtaba.toof@gmail.com**
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoof&&theme=dark)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoof&&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
