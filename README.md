@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mojtaba</h1>
 <h3 align="center">I'm a Software development student at Hive Helsinki</h3>
 
-- 🔭 I’m currently working on **42 school projects**
+- 🔭 I’m studying at Hive Helsinki (42 school).
 
-- 🌱 I’m currently learning **C++**
+- 🌱 Currently, I’m learning **C++**.
 
 - 📫 How to reach me **mojtaba.toof@gmail.com**
 
