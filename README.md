@@ -3,7 +3,7 @@
 
 - 🔭 I’m studying at Hive Helsinki (42 school).
 
-- 🌱 Currently, I’m learning **C++**.
+- 🌱 Currently, I’m learning **C++**, **Python**, **HTML** and **CSS**.
 
 - 📫 How to reach me **mojtaba.toof@gmail.com**
 
