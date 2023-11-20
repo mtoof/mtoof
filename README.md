@@ -5,7 +5,7 @@
 
 - 🌱 Currently, I’m learning **C++**, **Python**, **HTML** and **CSS**.
 
-- 📫 How to reach me **mojtaba.toof@gmail.com**
+- 📫 How to reach me? **mojtaba.toof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
