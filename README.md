@@ -5,7 +5,7 @@
 
 - 🌱 Currently, I’m learning **C++**, **Python**, **Django REST framework**.
 
-- 📫 How to reach me? **mojtaba.toof@gmail.com**
+- 📫 reach me -> **mojtaba.toof@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
