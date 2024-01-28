@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mojtaba</h1>
-<h3 align="center">I'm a Software development student at Hive Helsinki</h3>
+<h3 align="center">I'm a Software development student at Hive Helsinki with more than 5 years exdperince as a Network Specialist</h3>
 
 - 🔭 I’m studying at Hive Helsinki (42 school).
 
-- 🌱 Currently, I’m learning **C++**, **Python**, **Django REST framework**.
+- 🌱 Currently, I’m learning **C++**, **Python**, **Dango and Django REST framework**.
 
 - 📫 reach me -> **mojtaba.toof@gmail.com**
 
