@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mojtaba</h1>
-<h3 align="center">I'm a Software development student at Hive Helsinki with more than 5 years exdperince as a Network Specialist</h3>
+<h3 align="left">I am currently pursuing a Software Development at <a href="https://www.hive.fi/" rel="nofollow">Hive Helsinki (42 school)</a>, an innovative coding school known for its project-based and peer-to-peer learning approach. Prior to my journey into software development, I accumulated over 5 years of experience as a Network Specialist
 
-- 🔭 I’m studying at Hive Helsinki (42 school).
-
-- 🌱 Currently, I’m learning **C++**, **Python**, **Dango and Django REST framework**.
+- 🌱 Currently, I’m learning **C++** and **Python web frameworks**.
 
 - 📫 reach me -> **mojtaba.toof@gmail.com**
 
