@@ -8,8 +8,9 @@ well. Prior to my journey into software development, I accumulated over 5 years 
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
+  <strong>CCNA certificate</strong>
   <a href="https://www.credly.com/badges/d008eb51-d7e7-4005-ba18-11d763fd049b" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="www.linkedin.com/in/mojtaba-toof" height="30" width="40" />
+  <img src="https://camo.githubusercontent.com/76a734dc913b099510e8231d3298949dd439577c9914beab4b409eb6e53f6b21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d43434e412d3538393641423f7374796c653d666c61742d737175617265266c6f676f3d436973636f266c6f676f436f6c6f723d7768697465" alt="CCNA" data-canonical-src="https://img.shields.io/badge/-CCNA-5896AB?style=flat-square&amp;logo=Cisco&amp;logoColor=white" style="max-width: 100%;"/>
   </a>
 </p>
 <h3 align="left">Connect with me:</h3>
