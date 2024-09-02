@@ -6,6 +6,12 @@ interest in backend development roles , but I am motivated to
 contribute across various programming development positions as
 well. Prior to my journey into software development, I accumulated over 5 years of experience as a Network Specialist
 
+<h3 align="left">Certificates:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/d008eb51-d7e7-4005-ba18-11d763fd049b" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="www.linkedin.com/in/mojtaba-toof" height="30" width="40" />
+  </a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:mojtaba.toof@gmail.com" target="blank">
