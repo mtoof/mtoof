@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mojtaba</h1>
-<h3 align="left">A recent graduate in software development from <a href="https://www.hive.fi/" rel="nofollow">Hive Helsinki (42 school)</a>, an innovative coding school known for its project-based and peer-to-peer learning approach. , My strengths lie in
+<h3 align="left">A recent graduate in software development from <a href="https://www.hive.fi/" rel="nofollow">Hive Helsinki (42 school)</a>. My strengths lie in
 being an experienced team player, demonstrating unwavering
 commitment, and excelling in problem-solving. With a keen
 interest in backend development roles , but I am motivated to
