@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mojtaba</h1>
 <h3 align="left">A recent graduate in software development from <a href="https://www.hive.fi/" rel="nofollow">Hive Helsinki (42 school)</a>. My strengths lie in being an experienced team player, demonstrating unwavering
 commitment, and excelling in problem-solving. Keen
-interest in backend development roles , but I am motivated to
+interest in Back-end roles , but I am motivated to
 contribute across various programming development positions as
 well. Prior to my journey into software development, I accumulated over 5 years of experience as a Network Specialist
 
@@ -9,13 +9,13 @@ well. Prior to my journey into software development, I accumulated over 5 years 
 <p align="left">
 <ul>
   <li>
-    <a href="https://github.com/mtoof/transcendence" target="blank">Ft-trascendence</a>
+   🔥 <a href="https://github.com/mtoof/transcendence" target="blank">Ft-trascendence</a>
   </li>
   <li>
-    <a href="https://github.com/mtoof/Delivery-Fee-Calculator" target="blank">Delivery Fee Calculator</a>
+    🔥 <a href="https://github.com/mtoof/Delivery-Fee-Calculator" target="blank">Delivery Fee Calculator</a>
   </li>
   <li>
-    <a href="https://github.com/mtoof/Final-project-Django-course" target="blank">Final project Django course</a>
+   🔥 <a href="https://github.com/mtoof/Final-project-Django-course" target="blank">Final project Django course</a>
   </li>
 </ul>
 <h3 align="left">Certificates:</h3>
