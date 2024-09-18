@@ -5,6 +5,7 @@ interest in Back-end roles , but I am motivated to
 contribute across various programming development positions as
 well. Prior to my journey into software development, I accumulated over 5 years of experience as a Network Specialist
 </h3>
+<h3 align="left">Currently I'm learning AWS</h3>
 
 <h3 align="left">My proudest projects:</h3>
 <p align="left">
