@@ -17,6 +17,9 @@ well. Prior to my journey into software development, I accumulated over 5 years 
     🔥 <a href="https://github.com/mtoof/Delivery-Fee-Calculator" target="blank">Delivery Fee Calculator</a>
   </li>
   <li>
+   🔥 <a href="https://github.com/mtoof/ft_irc" target="blank">IRC Server</a>
+  </li>
+  <li>
    🔥 <a href="https://github.com/mtoof/Final-project-Django-course" target="blank">Final project Django course</a>
   </li>
 </ul>
