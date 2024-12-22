@@ -5,7 +5,7 @@ interest in Back-end roles , but I am motivated to
 contribute across various programming development positions as
 well. Prior to my journey into software development, I accumulated over 5 years of experience as a Network Specialist
 </h3>
-<img src="https://github.com/mtoof/mtoof/blob/main/learning.gif" alt="Learning GIF" width="300">
+<img src="https://github.com/mtoof/mtoof/blob/main/Currently-I-m-learning-Kotlin-Spring-boot.gif" alt="Learning GIF" width="300">
 
 <h3 align="left">My latest project:</h3>
 <p align="left">
