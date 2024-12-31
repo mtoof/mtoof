@@ -57,6 +57,6 @@
     <h3>Frameworks:</h3>
     <img src="https://skillicons.dev/icons?i=spring,fastapi,django,&perline=4" />
     <h3>tools:</h3>
-    <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,docker,github,postman" />
+    <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,mongodb,docker,github,postman" />
   </a>
 </p>
