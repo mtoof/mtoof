@@ -1,10 +1,8 @@
 <h1 align="center">Hi <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Mojtaba</h1>
-<h3 align="left">A recent graduate in software development from <a href="https://www.hive.fi/" rel="nofollow">Hive Helsinki (42 school)</a>. My strengths lie in being an experienced team player, demonstrating unwavering
-commitment, and excelling in problem-solving. Keen
-interest in Back-end roles , but I am motivated to
-contribute across various programming development positions as
-well. Prior to my journey into software development, I accumulated over 5 years of experience as a Network Specialist
+<h3 align="left">A recent graduate in software development from <a href="https://www.hive.fi/" rel="nofollow">Hive Helsinki (42 school)</a>with a solid background in computer networking and a keen interest in back-end development using Python and Java technologies. Cisco-certified with a proven ability to combine technical networking knowledge and software development skills to provide robust and innovative solutions.
 </h3>
+
+
 <img src="https://github.com/mtoof/mtoof/blob/main/Currently-I-m-learning-Kotlin-Spring-boot.gif" alt="Learning GIF" width="300">
 
 <h3 align="left">My latest project:</h3>
@@ -52,33 +50,13 @@ well. Prior to my journey into software development, I accumulated over 5 years 
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="fasstapi" width="40" height="40"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,python&perline=4" />
+    <h3>Frameworks:</h3>
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,django,&perline=4" />
+    <h3>tools:</h3>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,docker,github,postman" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
-  </a> 
 </p>
