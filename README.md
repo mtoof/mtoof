@@ -1,67 +1,142 @@
-<h1 align="center">Hi <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Mojtaba</h1>
-<h3 align="left">A recent graduate in software development from <a href="https://www.hive.fi/" rel="nofollow">Hive Helsinki (42 school)</a>with a solid background in computer networking and a keen interest in back-end development using Python and Java technologies. Cisco-certified with a proven ability to combine technical networking knowledge and software development skills to provide robust and innovative solutions.
-</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">, I'm Mojtaba
+</h1>
 
+<h3 align="center">Software Developer | Java • Spring Boot • Python • PostgreSQL</h3>
 
-<img src="https://github.com/mtoof/mtoof/blob/main/Currently-I-m-learning-Kotlin-Spring-boot.gif" alt="Learning GIF" width="300">
-
-<h3 align="left">My latest project:</h3>
-<p align="left">
-<ul>
-  <li>
-   🔥 <a href="https://github.com/mtoof/delivery-fee-calculator-kotlin" target="blank">Delivery fee API using Kotlin</a>
-  </li>
-</ul>
+<p>
+I'm a software developer based in Finland with professional experience in backend development using Java, Spring Boot, Python, PostgreSQL, and JavaScript.
 </p>
 
-<h3 align="left">My proudest projects:</h3>
-<p align="left">
-<ul>
-  <li>
-   🔥 <a href="https://github.com/mtoof/transcendence" target="blank">Ft-trascendence</a>
-  </li>
-  <li>
-    🔥 <a href="https://github.com/mtoof/Delivery-Fee-Calculator" target="blank">Delivery Fee Calculator</a>
-  </li>
-  <li>
-   🔥 <a href="https://github.com/mtoof/ft_irc" target="blank">IRC Server</a>
-  </li>
-  <li>
-   🔥 <a href="https://github.com/mtoof/Final-project-Django-course" target="blank">Final project Django course</a>
-  </li>
-</ul>
-<h3 align="left">Certificates:</h3>
-<ul>
-  <li><a href="https://www.credly.com/badges/d008eb51-d7e7-4005-ba18-11d763fd049b" target="blank">
-  <img src="https://camo.githubusercontent.com/76a734dc913b099510e8231d3298949dd439577c9914beab4b409eb6e53f6b21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d43434e412d3538393641423f7374796c653d666c61742d737175617265266c6f676f3d436973636f266c6f676f436f6c6f723d7768697465" alt="CCNA" data-canonical-src="https://img.shields.io/badge/-CCNA-5896AB?style=flat-square&amp;logo=Cisco&amp;logoColor=white" style="max-width: 100%;"/>
-  </a>
-  <li><a href="https://coursera.org/share/ebee68428ff9eb1361a92a068367eb0d" target="blank">Coursera Meta Django web framework</a></li>
-  <li><a href="https://coursera.org/share/002d91d1775e83adf46378cf1504b3d4" target="blank">Coursera Meta Databases for Back-End</a></li>
-</ul>
+<p>
+I have over a year of professional experience with Java, mainly developing backend services with Spring Boot. At Ritchie Bros., I worked on a Spring Boot microservice replacing a legacy multi-region cost system for a global heavy-equipment marketplace. I also contributed to reconciliation checks for an Oracle-to-PostgreSQL financial data migration, comparing data across both databases before cutover.
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:mojtaba.toof@gmail.com" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="www.linkedin.com/in/mojtaba-toof" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mojtaba-toof" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mojtaba-toof" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.mojtabatoof.dev" target="blank">
-    <img align="center" src="https://github.com/mtoof/mtoof/blob/main/web-icon.svg" alt="https://www.mojtabatoof.dev" height="40" width="50" />
-  </a>
 
+<p>
+Alongside my main role, I worked on a startup MVP where I built backend functionality in Python and JavaScript, including a generic web scraper capable of extracting structured data from different website layouts, browser automation, data processing, and error handling.
 </p>
 
-<p align="left">
+<p>
+I enjoy working on backend systems, automation, data processing, and solving problems where reliability and clean design matter. I also have a background in IT infrastructure and computer networking, which gives me a broader understanding of how software works beyond the application layer.
+</p>
+
+<p>
+I studied software development at
+<a href="https://www.hive.fi/">Hive Helsinki (42 Network)</a>
+from 2022 to 2024, where I worked with C, C++, Python, networking, web development, and software engineering.
+</p>
+
+
+<h2>🛠️ Technologies</h2>
+
+<h3>Languages</h3>
+<p>
   <a href="https://skillicons.dev">
-    <h3>Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,python&perline=4" />
-    <h3>Frameworks:</h3>
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,django,&perline=4" />
-    <h3>tools:</h3>
-    <img src="https://skillicons.dev/icons?i=aws,mysql,postgres,mongodb,docker,github,postman" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,c,cpp&perline=8" />
+  </a>
+</p>
+
+<h3>Backend & Frameworks</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,fastapi&perline=8" />
+  </a>
+</p>
+
+<h3>Databases & Tools</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,git,github,postman,linux&perline=9" />
+  </a>
+</p>
+
+
+<h2>🚀 Latest Project</h2>
+
+<ul>
+  <li>
+    <a href="https://github.com/mtoof/delivery-fee-calculator-kotlin">
+      <strong>Delivery Fee Calculator – Kotlin</strong>
+    </a>
+    — A backend API written in Kotlin.
+  </li>
+</ul>
+
+
+<h2>💻 Projects I'm Proud Of</h2>
+
+<ul>
+  <li>
+    🔥 <a href="https://github.com/mtoof/transcendence">
+      <strong>ft_transcendence</strong>
+    </a>
+  </li>
+
+  <li>
+    🔥 <a href="https://github.com/mtoof/Delivery-Fee-Calculator">
+      <strong>Delivery Fee Calculator</strong>
+    </a>
+  </li>
+
+  <li>
+    🔥 <a href="https://github.com/mtoof/ft_irc">
+      <strong>IRC Server</strong>
+    </a>
+  </li>
+
+  <li>
+    🔥 <a href="https://github.com/mtoof/Final-project-Django-course">
+      <strong>Django Backend Project</strong>
+    </a>
+  </li>
+</ul>
+
+
+<h2>🎓 Certifications</h2>
+
+<ul>
+  <li>
+    <a href="https://www.credly.com/badges/d008eb51-d7e7-4005-ba18-11d763fd049b">
+      CCNA – Cisco Certified Network Associate
+    </a>
+  </li>
+
+  <li>
+    <a href="https://coursera.org/share/ebee68428ff9eb1361a92a068367eb0d">
+      Meta – Django Web Framework
+    </a>
+  </li>
+
+  <li>
+    <a href="https://coursera.org/share/002d91d1775e83adf46378cf1504b3d4">
+      Meta – Databases for Back-End Development
+    </a>
+  </li>
+</ul>
+
+
+<h2>🤝 Connect With Me</h2>
+
+<p>
+  <a href="mailto:mojtaba.toof@gmail.com">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg"
+         alt="Email"
+         height="35"
+         width="45" />
+  </a>
+
+  <a href="https://linkedin.com/in/mojtaba-toof">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://www.mojtabatoof.dev">
+    <img src="https://github.com/mtoof/mtoof/blob/main/web-icon.svg"
+         alt="Personal Website"
+         height="38"
+         width="48" />
   </a>
 </p>
